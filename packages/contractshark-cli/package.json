@@ -5,13 +5,13 @@
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
-    "specron": "./bin/specron"
+    "contract-shark": "./bin/contract-shark"
   },
   "scripts": {
     "build": "npx tsc",
     "test": "npx nyc npx ava --verbose"
   },
-  "specron": {
+  "contract-shark": {
     "compiler": {
       "build": "./build",
       "match": [
