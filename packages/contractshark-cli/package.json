@@ -79,7 +79,7 @@
     "@contractshark/sandbox": "0.17.1",
     "@contractshark/spec": "0.17.1",
     "inquirer": "7.1.0",
-    "yargs": "15.3.1"
+    "yargs": "16.2.0"
   },
   "peerDependencies": {
     "solc": "*",
