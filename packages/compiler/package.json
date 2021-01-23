@@ -47,7 +47,7 @@
     "@contractshark/flattener": "0.17.1",
     "@contractshark/reporter": "0.10.0",
     "fast-glob": "3.2.2",
-    "fs-extra": "9.0.0"
+    "fs-extra": "9.1.0"
   },
   "peerDependencies": {
     "solc": "*"
