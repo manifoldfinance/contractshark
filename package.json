@@ -36,12 +36,12 @@
     "watch:ts": "tsc -b -w"
   },
   "devDependencies": {
-    "doctoc": "~1.4.0",
+    "doctoc": "~2.0.0",
     "async-child-process": "~1.1.1",
     "bundlewatch": "~0.3.1",
     "coveralls": "~3.0.0",
     "ganache-cli": "6.8.0-istanbul.0",
-    "lcov-result-merger": "~3.0.0",
+    "lcov-result-merger": "~3.1.0",
     "npm-run-all": "~4.1.2",
     "source-map-support": "~0.5.6",
     "wsrun": "~2.2.0",
