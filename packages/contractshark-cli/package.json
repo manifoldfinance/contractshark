@@ -62,7 +62,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/inquirer": "7.3.1",
-    "@types/node": "15.3.0",
+    "@types/node": "15.6.0",
     "@types/yargs": "16.0.1",
     "ava": "3.15.0",
     "nyc": "15.0.1",
